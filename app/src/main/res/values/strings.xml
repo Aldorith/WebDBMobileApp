@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Web DB Mobile App</string>
+
+    <!-- Main Activity Text -->
+    <string name="submit_button">Submit</string>
+    <string name="ToDoTitle">Enter the Name of the Task</string>
+    <string name="ToDoDescription"> Enter a Description of the Task</string>
+</resources>
