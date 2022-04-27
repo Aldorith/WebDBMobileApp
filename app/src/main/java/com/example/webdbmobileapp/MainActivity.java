@@ -12,7 +12,7 @@ import com.google.firebase.database.FirebaseDatabase;
 
 public class MainActivity extends AppCompatActivity {
 
-    FirebaseDatabase database = FirebaseDatabase.getInstance("https://web-db-mobile-app-7e48d.firebaseio.com");
+    FirebaseDatabase database = FirebaseDatabase.getInstance("https://web-db-mobile-app-7e48d-default-rtdb.firebaseio.com/");
     DatabaseReference dbRef = database.getReference("tasks");
 
     @Override
