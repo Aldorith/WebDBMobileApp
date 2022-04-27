@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "265734215663",
+    "project_id": "web-db-mobile-app-7e48d",
+    "storage_bucket": "web-db-mobile-app-7e48d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265734215663:android:3db0207b252eab6a37881a",
+        "android_client_info": {
+          "package_name": "com.example.webdbmobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265734215663-5a5932l2kl1oefjttec39vi636odn2e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOqAXnIdkCDSxllWWI_A9ag4lVMO0LaXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265734215663-5a5932l2kl1oefjttec39vi636odn2e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
